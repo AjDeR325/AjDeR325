@@ -22,4 +22,20 @@
 <a href="https://t.me/Ajdertt">
   <img src="https://img.shields.io/badge/Telegram-@Ajdertt-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
+## 🎮 GitHub Breakout
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/AjDeR325/AjDeR325/github-breakout/images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/AjDeR325/AjDeR325/github-breakout/images/breakout-light.svg"
+  />
+  <img
+    alt="GitHub Breakout"
+    src="https://raw.githubusercontent.com/AjDeR325/AjDeR325/github-breakout/images/breakout-light.svg"
+  />
+</picture>
 
