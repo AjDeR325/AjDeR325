@@ -26,17 +26,9 @@
   </a>
 </p>
 
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/AjDeR325/AjDeR325/github-breakout/images/breakout-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/AjDeR325/AjDeR325/github-breakout/images/breakout-light.svg"
-  />
+  <picture>
   <img
     alt="GitHub Breakout"
-    src="https://raw.githubusercontent.com/AjDeR325/AjDeR325/github-breakout/images/breakout-light.svg"
+    src="https://raw.githubusercontent.com/AjDeR325/AjDeR325/github-breakout/images/breakout-dark.svg"
   />
 </picture>
-
