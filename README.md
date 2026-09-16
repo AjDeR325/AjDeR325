@@ -17,9 +17,15 @@
 <h2 align="center">Связь</h2>
 
 
-<a href="https://t.me/Ajdertt">
-    <img src="https://img.shields.io/badge/Telegram-@Ajdertt-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
+<p align="center">
+  <a href=https://t.me/Ajdertt>
+    <img
+      src="https://cdn.simpleicons.org/telegram/26A5E4"
+      width="25"
+      alt="Telegram"
+    >
+  </a>
+</p>
 
   <source
     media="(prefers-color-scheme: dark)"
