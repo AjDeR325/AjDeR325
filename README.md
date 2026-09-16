@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Привет! Я Ayder
 
-<!--
-**AjDeR325/AjDeR325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="./assets/YQgT.gif" width="500">
+</p>
 
-Here are some ideas to get you started:
+## 🧑‍💻 Обо мне
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Студент факультета информатики  
+💻 Изучаю C++ и SQL  
+🌐 Интересуюсь программированием и IT  
+🎮 Люблю создавать свои проекты
+
+## 🛠️ Технологии
+
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white">
+</p>
+
+## 📫 Связаться со мной
+
+<a href="https://t.me/Ajdertt">
+  <img src="https://img.shields.io/badge/Telegram-@Ajdertt-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+
+---
+
+<p align="center">
+  <i>Спасибо, что заглянул!</i> 👋
+</p>
