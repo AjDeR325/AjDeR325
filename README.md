@@ -6,7 +6,7 @@
 </p>
  
 
-<h2 align="center" style="color:#003366;">Языки программирования</h2>
+<h2 align="center"><font color="#003366">Языки программирования</font></h2>
 
 
 <p align="center">
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 </p>
-<h2 align="center" style="color:#003366;">связь</h2>
+<h2 align="center"><font color="#003366">Связь</font></h2>
 
 <p align="center">
   <a href=https://t.me/Ajdertt>
