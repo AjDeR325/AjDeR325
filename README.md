@@ -3,8 +3,7 @@
 </p>
  
 
-
-                                                           🛠️ Технологии
+<h2 align="center">Языки программирования</h2>
 
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
