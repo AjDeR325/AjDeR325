@@ -1,4 +1,4 @@
-# 👋 Привет! Я Ayder
+# 👋 Привет! Я Айдер
 
 <p align="center">
   <img src="./assets/YQgT.gif" width="500">
@@ -6,10 +6,10 @@
 
 ## 🧑‍💻 Обо мне
 
-🎓 Студент факультета информатики  
-💻 Изучаю C++ и SQL  
-🌐 Интересуюсь программированием и IT  
-🎮 Люблю создавать свои проекты
+ Студент факультета информатики  
+ Изучаю C++ и   
+ Интересуюсь программированием и IT  
+
 
 ## 🛠️ Технологии
 
@@ -26,8 +26,3 @@
   <img src="https://img.shields.io/badge/Telegram-@Ajdertt-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
----
-
-<p align="center">
-  <i>Спасибо, что заглянул!</i> 👋
-</p>
