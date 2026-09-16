@@ -25,10 +25,11 @@
     >
   </a>
 </p>
-
+<p align="center">
   <picture>
   <img
     alt="GitHub Breakout"
     src="https://raw.githubusercontent.com/AjDeR325/AjDeR325/github-breakout/images/breakout-dark.svg"
   />
 </picture>
+</p>
